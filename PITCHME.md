@@ -7,7 +7,7 @@
 
 ## Course Contents
 
-* [?p=git](Git)
+* [Git](?p=git)
 * C#
 * Mongo DB
 * Unit Testing
