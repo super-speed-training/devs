@@ -1,6 +1,6 @@
-# Black Binary
+# Git
 
-### A GitPitch Presentation Template
+### Git Essentials
 
 ---
 
